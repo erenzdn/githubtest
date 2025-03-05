@@ -1,1 +1,4 @@
 git'i öğrenmek için yaptığım küçük alıştırma..!
+
+
+yeni bir şey ekliyorum 2. commit için
